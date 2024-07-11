@@ -1,15 +1,14 @@
 ---
-title: "git pages部署hugo的流程"
-date: 2024-07-10T22:01:14+08:00
-lastmod: 2024-07-10T22:01:14+08:00
+title: "Template"
+date: 2024-07-11T16:37:21+08:00
+lastmod: 2024-07-11T16:37:21+08:00
 author: ["jceltics"]
 keywords: 
-- hugo
+- 
 categories: # 没有分类界面可以不填写
-- hugo
+- 
 tags: # 标签
-- hugo
-- github
+- 
 description: ""
 weight:
 slug: ""
@@ -29,11 +28,3 @@ cover:
     alt: ""
     relative: false
 ---
-
-# git pages 部署hugo
-
-## 参考链接
-
-> 1. [Host on GitHub Pages | Hugo (gohugo.io)](https://gohugo.io/hosting-and-deployment/hosting-on-github/)
-> 
-> 2. [Hugo官方文档中文版|Hugo中文文档 | Hugo官方文档 (opendocs.io)](https://hugo.opendocs.io/)
